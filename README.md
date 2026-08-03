@@ -19,7 +19,7 @@
 Desenvolvedor com foco em **Backend**, apaixonado por construir sistemas escaláveis, APIs robustas e arquiteturas distribuídas que resolvem problemas reais.
 
 - 🎓 Cursando **Engenharia de Software** — Faculdade Facint
-- 🚀 Trabalhando em **Weather Intelligence Platform** — plataforma full stack de inteligência climática
+- 🚀 Desenvolvi a **Weather Intelligence Platform** — plataforma full stack de inteligência climática
 - 📍 Carmo do Rio Claro, MG — disponível para trabalho **remoto**
 - 💡 Sempre aprendendo e evoluindo na área de tecnologia
 
@@ -55,6 +55,20 @@ Desenvolvedor com foco em **Backend**, apaixonado por construir sistemas escalá
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 💼 Freela Manager
+> Sistema completo de gerenciamento de clientes, projetos e finanças para freelancers, com deploy em produção.
+
+- Frontend em **React + TypeScript + Vite + Tailwind**
+- Backend em **FastAPI + PostgreSQL + SQLAlchemy** com autenticação **JWT**
+- Deploy: frontend na **Vercel**, backend no **Render** com banco **Neon**
+- Gestão de clientes, projetos e controle financeiro em um só lugar
+
+`React` `TypeScript` `FastAPI` `PostgreSQL` `JWT` `Vercel` `Render`
+
+🔗 [Ver projeto](https://github.com/LuizMenezes07)
+
+---
 
 ### 🌦️ Weather Intelligence Platform
 > Plataforma full stack de inteligência climática para coleta, processamento e visualização de dados meteorológicos em tempo real.
