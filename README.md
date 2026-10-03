@@ -1,92 +1,136 @@
-<!-- ATA:START -->
 <div align="center">
 
-![Area Tech Academy](https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Luiz%20Otavio%20Menezes%20Pereira&fontSize=42&fontAlignY=36&desc=Area%20Tech%20Academy%20%C2%B7%20Trainee&descAlignY=58&color=0:0ea5e9,50:8b5cf6,100:f97316&fontColor=ffffff)
 
-### Desenvolvedor em evolução · Trainee
+# Luiz Otávio Menezes Pereira
 
-<a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
-<img src="https://img.shields.io/static/v1?label=Level&message=1&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=180&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
-<img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
-<img src="https://img.shields.io/static/v1?label=Main%20stack&message=Java&color=22c55e&style=for-the-badge&logo=openjdk&logoColor=white" alt="Main stack" />
+**Desenvolvedor Backend Júnior**
 
-</div>
-
-## Sua constância
-
-<div align="center">
-
-![Sua constância](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-activity-heatmap.svg?t=20261003022313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizmenezes07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizMenezes07)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://luizmenezes07.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menezes070100@gmail.com)
 
 </div>
 
 ---
 
-## Snapshot
+## 👨‍💻 Sobre mim
 
-<table>
-  <tr>
-    <td align="center"><strong>1</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>3</strong><br/>estrelas conquistadas</td>
-    <td align="center"><strong>3.0</strong><br/>media de estrelas</td>
-    <td align="center"><strong>1</strong><br/>dias de streak</td>
-    <td align="center"><strong>1</strong><br/>conquistas</td>
-  </tr>
-</table>
+Desenvolvedor com foco em **Backend**, apaixonado por construir sistemas escaláveis, APIs robustas e arquiteturas distribuídas que resolvem problemas reais.
 
-## Challenge Arena
+- 🎓 Cursando **Engenharia de Software** — Faculdade Facint
+- 🚀 Desenvolvi a **Weather Intelligence Platform** — plataforma full stack de inteligência climática
+- 📍 Carmo do Rio Claro, MG — disponível para trabalho **remoto**
+- 💡 Sempre aprendendo e evoluindo na área de tecnologia
 
-| Easy | Medium | Hard | Total | Stars | Avg |
-|:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 0 | 1 | 0 | 1 | 3 | 3.0/3 |
+---
 
-```text
-Activity  ░░░░░░░░░░░░░█
-```
+## 🛠️ Stack Técnica
 
-## Language Skills
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<div align="center">
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Language Skills](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-language-skills.svg?t=20261003022313)
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</div>
+### DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Language | Level | XP no nível | Desafios |
-|---|---:|---:|---:|
-| Java | 1 | 130 / 1,000 | 1 |
+---
 
-## Achievements
+## 🚀 Projetos em Destaque
 
-<details open>
-<summary><strong>Latest unlocked badges</strong></summary>
+### 💼 Freela Manager
+> Sistema completo de gerenciamento de clientes, projetos e finanças para freelancers, com deploy em produção.
 
-- 🧩 **Primeiro desafio de lógica** — Complete seu primeiro desafio de lógica.
+- Frontend em **React + TypeScript + Vite + Tailwind**
+- Backend em **FastAPI + PostgreSQL + SQLAlchemy** com autenticação **JWT**
+- Deploy: frontend na **Vercel**, backend no **Render** com banco **Neon**
+- Gestão de clientes, projetos e controle financeiro em um só lugar
 
-</details>
+`React` `TypeScript` `FastAPI` `PostgreSQL` `JWT` `Vercel` `Render`
 
-## Recent Activity
+🔗 [Ver projeto](https://github.com/LuizMenezes07)
 
-| Data | Desafios |
-|------|----------|
-| 2026-10-03 | 1 |
+---
 
-## Current Focus
+### 🌦️ Weather Intelligence Platform
+> Plataforma full stack de inteligência climática para coleta, processamento e visualização de dados meteorológicos em tempo real.
 
-- Evoluindo em **Java** com prática guiada por XP, níveis e desafios.
-- Transformando soluções em portfólio público com repositórios organizados.
-- Mantendo progresso constante na Area Tech Academy.
+- Arquitetura backend com **Python**, **Go**, **NestJS** e **RabbitMQ** para processamento assíncrono
+- Interface moderna em **React** com insights climáticos via inteligência artificial
+- Ambiente distribuído com **MongoDB** e **Docker Compose**
+- Foco em escalabilidade, microsserviços e estabilidade
+
+`Python` `Go` `NestJS` `React` `RabbitMQ` `MongoDB` `Docker` `IA`
+
+---
+
+### 🛍️ Thaisa Lingerie — E-commerce
+> Loja virtual completa com painel administrativo.
+
+- Catálogo de produtos com filtro por categoria e carrinho de compras
+- Finalização de pedido via **WhatsApp** com resumo completo
+- Painel admin com login, gerenciamento de produtos e upload de fotos
+- Layout 100% responsivo
+
+`HTML5` `CSS3` `JavaScript` `Netlify`
+
+🔗 [Ver site](https://thaisalingerie.netlify.app/)
+
+---
+
+### 📦 Products API
+> API RESTful de gerenciamento de produtos com Java e Spring Boot.
+
+- Arquitetura em camadas: Controller, Repository e Model
+- **PostgreSQL** com migrations via **Flyway**
+- DTOs e Spring Data JPA
+
+`Java` `Spring Boot` `PostgreSQL` `Flyway` `Maven`
+
+🔗 [Ver código](https://github.com/LuizMenezes07/products-api)
+
+---
+
+---
+
+## 📜 Certificações
+
+| Curso | Instituição | Ano |
+|---|---|---|
+| Hacker Summit 2026 — Resposta e Estratégia em Tempo Real | Even3 | 2026 |
+| Algoritmos e Lógica de Programação | Facint | 2026 |
+| Engenharia de Requisitos | Facint | 2026 |
+| Node.js | OneBitCode | 2025 |
+| TypeScript | OneBitCode | 2025 |
+| JavaScript | OneBitCode | 2025 |
+| Banco de Dados SQL | OneBitCode | 2025 |
+| Git e GitHub | OneBitCode | 2025 |
+| HTML5 & CSS3 | OneBitCode | 2025 |
 
 ---
 
 <div align="center">
 
-<a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Powered%20by&message=Area%20Tech%20Academy&color=0ea5e9&style=for-the-badge&logo=github&logoColor=white" alt="Powered by" /></a>
+**Aberto a oportunidades remotas — Vamos construir algo juntos?**
 
-_README sincronizado automaticamente com minha evolução na plataforma._
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:8b5cf6,100:f97316)
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizmenezes07)
 
 </div>
-<!-- ATA:END -->
