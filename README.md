@@ -7,7 +7,7 @@
 
 <a href="https://areatech.academy/github" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=Area%20Tech%20Academy&message=Student&color=0f172a&style=for-the-badge&logo=academia&logoColor=white" alt="Area Tech Academy" /></a>
 <img src="https://img.shields.io/static/v1?label=Level&message=1&color=0ea5e9&style=for-the-badge&logo=starship&logoColor=white" alt="Level" />
-<img src="https://img.shields.io/static/v1?label=XP&message=130&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
+<img src="https://img.shields.io/static/v1?label=XP&message=180&color=8b5cf6&style=for-the-badge&logo=sparkpost&logoColor=white" alt="XP" />
 <img src="https://img.shields.io/static/v1?label=Seniority&message=Trainee&color=f97316&style=for-the-badge&logo=levelsdotfyi&logoColor=white" alt="Seniority" />
 <img src="https://img.shields.io/static/v1?label=Main%20stack&message=Java&color=22c55e&style=for-the-badge&logo=openjdk&logoColor=white" alt="Main stack" />
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Sua constância](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-activity-heatmap.svg?t=20261003022309)
+![Sua constância](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-activity-heatmap.svg?t=20261003022313)
 
 </div>
 
@@ -27,11 +27,11 @@
 
 <table>
   <tr>
-    <td align="center"><strong>0</strong><br/>desafios resolvidos</td>
-    <td align="center"><strong>0</strong><br/>estrelas conquistadas</td>
-    <td align="center"><strong>0.0</strong><br/>media de estrelas</td>
+    <td align="center"><strong>1</strong><br/>desafios resolvidos</td>
+    <td align="center"><strong>3</strong><br/>estrelas conquistadas</td>
+    <td align="center"><strong>3.0</strong><br/>media de estrelas</td>
     <td align="center"><strong>1</strong><br/>dias de streak</td>
-    <td align="center"><strong>0</strong><br/>conquistas</td>
+    <td align="center"><strong>1</strong><br/>conquistas</td>
   </tr>
 </table>
 
@@ -39,23 +39,38 @@
 
 | Easy | Medium | Hard | Total | Stars | Avg |
 |:----:|:------:|:----:|:-----:|:-----:|:---:|
-| 0 | 0 | 0 | 0 | 0 | 0.0/3 |
+| 0 | 1 | 0 | 1 | 3 | 3.0/3 |
 
 ```text
-Activity  ░░░░░░░░░░░░░░
+Activity  ░░░░░░░░░░░░░█
 ```
 
 ## Language Skills
 
 <div align="center">
 
-![Language Skills](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-language-skills.svg?t=20261003022309)
+![Language Skills](https://raw.githubusercontent.com/LuizMenezes07/LuizMenezes07/HEAD/ata-language-skills.svg?t=20261003022313)
 
 </div>
 
 | Language | Level | XP no nível | Desafios |
 |---|---:|---:|---:|
-| Java | 1 | 130 / 1,000 | 0 |
+| Java | 1 | 130 / 1,000 | 1 |
+
+## Achievements
+
+<details open>
+<summary><strong>Latest unlocked badges</strong></summary>
+
+- 🧩 **Primeiro desafio de lógica** — Complete seu primeiro desafio de lógica.
+
+</details>
+
+## Recent Activity
+
+| Data | Desafios |
+|------|----------|
+| 2026-10-03 | 1 |
 
 ## Current Focus
 
